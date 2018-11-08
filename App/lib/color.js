@@ -1,0 +1,11 @@
+export const blue = '#1ebefe';
+export const darkBlue = '#4facfe';
+export const buttonDarkBlue = '#4facfe';
+export const buttonLightBlue = '#00C8FE';
+export const gray = '#bdc7d0';
+export const yellow = '#f5a623';
+export const green = '#49F2D7';
+export const white = '#FFFFFF';
+export const lightgray = '#F2F2F2';
+export const text = '#222222';
+export const pink = '#ed497c';

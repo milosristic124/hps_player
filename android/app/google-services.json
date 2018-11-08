@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "337749473587",
+    "firebase_url": "https://housepointsystem.firebaseio.com",
+    "project_id": "housepointsystem",
+    "storage_bucket": "housepointsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337749473587:android:62c9cba8f551a8f5",
+        "android_client_info": {
+          "package_name": "com.housepointsystem.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337749473587-c7rladjp1h490hsv8uf6ardbalc499su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWvaMWRmq4-qGi8q5DgQdZ999QVfIUsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
